@@ -27,4 +27,7 @@ I am a software developer actively looking for cybersecurity opportunities. If y
 <br/>  
 
 ## Repository/Language Stats
-![wellatleastitried's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellatleastitried&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![wellatleastitried's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellatleastitried&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+**WakaTime Stats reflect time since 10/15/2024**<br/>
+![wellatleastitried's Language Usage](https://github-readme-stats.vercel.app/api/wakatime?username=wellatleastitried&layout=compact&theme=dark)
