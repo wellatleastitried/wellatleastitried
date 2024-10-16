@@ -37,7 +37,7 @@ I am a software developer actively looking for cybersecurity opportunities. If y
 </div>
 
 <p align="center">
-  <strong>**WakaTime Stats reflect time since 10/15/2024**</strong>
+  <strong><br/>WakaTime Stats reflect time since 10/15/2024</strong>
 </p>
 
 <div align="center">
