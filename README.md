@@ -1,8 +1,12 @@
-## What's up fellas
-  
-I am a software developer actively looking for cybersecurity opportunities. If you want to work together, let me know.
+<h2 align="center">What's up fellas</h2>
 
-### Connect with me
+<p align="center">
+I am a software developer actively looking for cybersecurity opportunities. If you want to work together, let me know.
+</p>
+
+<h3 align="center">Connect with me</h3>
+
+<div align="center">
 <a href="https://github.com/wellatleastitried" target="_blank">
   <img src=https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
 </a>
@@ -24,10 +28,20 @@ I am a software developer actively looking for cybersecurity opportunities. If y
 <a href="https://devsecinsider.com" target="_blank">
   <img src=https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white alt=personal_website style="margin-bottom: 5px;"/>
 </a>
-<br/>  
+</div>
 
-## Repository/Language Stats
-![wellatleastitried's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellatleastitried&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<h2 align="center">Repository/Language Stats</h2>
 
-**WakaTime Stats reflect time since 10/15/2024**<br/>
-![wellatleastitried's Language Usage](https://github-readme-stats.vercel.app/api/wakatime?username=wellatleastitried&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellatleastitried&theme=dark&show_icons=true&hide_border=true&layout=compact">
+</div>
+
+<p align="center">
+  <strong>**WakaTime Stats reflect time since 10/15/2024**</strong>
+</p>
+
+<div align="center">
+  <a href="https://wakatime.com/@wellatleastitried">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wellatleastitried&layout=compact&theme=dark" alt="Weekly Activity">
+  </a>
+</div>
