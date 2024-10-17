@@ -33,7 +33,9 @@ I am a software developer actively looking for cybersecurity opportunities. If y
 <h2 align="center">Repository/Language Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellatleastitried&theme=dark&show_icons=true&hide_border=true&layout=compact">
+  <a href="https://github.com/wellatleastitried?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellatleastitried&theme=dark&show_icons=true&hide_border=true&layout=compact">
+  </a>
 </div>
 
 <p align="center">
