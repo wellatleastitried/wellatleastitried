@@ -38,9 +38,9 @@ I am a software developer actively looking for cybersecurity opportunities. If y
   </a>
 </div>
 
-<!---<p align="center">
+<p align="center">
   <strong><br/>WakaTime Stats reflect time since 10/15/2024</strong>
-</p>--->
+</p>
 
 <div align="center">
   <a href="https://wakatime.com/@wellatleastitried">
