@@ -1,7 +1,7 @@
 <h2 align="center">Jackson Swindell</h2>
 
 <p align="center">
-I am a software developer actively looking for cybersecurity opportunities. If you want to work together, let me know.
+I am a software developer also looking for cybersecurity opportunities. If you want to work together, let me know.
 </p>
 
 <h3 align="center">Connect with me</h3>
