@@ -1,4 +1,4 @@
-<h2 align="center">What's up fellas</h2>
+<h2 align="center">Jackson Swindell</h2>
 
 <p align="center">
 I am a software developer actively looking for cybersecurity opportunities. If you want to work together, let me know.
