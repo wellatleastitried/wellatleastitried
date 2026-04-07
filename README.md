@@ -7,14 +7,8 @@ Cybersecurity Engineer that enjoys Software Development. If you want to work tog
 <h3 align="center">Connect with me</h3>
 
 <div align="center">
-  <a href="https://github.com/wellatleastitried" target="_blank">
-    <img src=https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
-  </a>
   <a href="https://www.linkedin.com/in/jack-swindell-896753183/" target="_blank">
     <img src=https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
-  </a>
-  <a href="https://t.me/snbwalit/" target="_blank">
-    <img src=https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;"/>
   </a>
   <a href="https://www.codewars.com/users/wellatleastitried" target="_blank">
     <img src=https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white alt=codewars style="margin-bottom: 5px;"/>
@@ -24,9 +18,6 @@ Cybersecurity Engineer that enjoys Software Development. If you want to work tog
   </a>
   <a href="https://discordapp.com/users/335556458869424128" target="_blank">
     <img src=https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;"/>
-  </a>
-  <a href="https://devsecinsider.com" target="_blank">
-    <img src=https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white alt=personal_website style="margin-bottom: 5px;"/>
   </a>
 </div>
 
