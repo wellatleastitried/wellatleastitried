@@ -25,7 +25,7 @@ Cybersecurity Engineer that enjoys programming.
 
 <div align="center">
   <a href="https://github.com/wellatleastitried?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellatleastitried&theme=dark&show_icons=true&hide_border=true&layout=compact">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wellatleastitried&theme=dark&show_icons=true&hide_border=true&layout=compact">
   </a>
 </div>
 
@@ -35,6 +35,6 @@ Cybersecurity Engineer that enjoys programming.
 
 <div align="center">
   <a href="https://wakatime.com/@wellatleastitried">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wellatleastitried&layout=compact&theme=dark" alt="Weekly Activity">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=wellatleastitried&layout=compact&theme=dark" alt="Weekly Activity">
   </a>
 </div>
