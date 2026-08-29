@@ -1,11 +1,10 @@
 <h2 align="center">Jackson Swindell</h2>
 
 <p align="center">
-Cybersecurity Engineer that enjoys Software Development. If you want to work together, let me know.
+Cybersecurity Engineer that enjoys programming.
 </p>
-
+<!--
 <h3 align="center">Connect with me</h3>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/jack-swindell-896753183/" target="_blank">
     <img src=https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
@@ -20,6 +19,7 @@ Cybersecurity Engineer that enjoys Software Development. If you want to work tog
     <img src=https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;"/>
   </a>
 </div>
+-->
 
 <h2 align="center">Repository/Language Stats</h2>
 
